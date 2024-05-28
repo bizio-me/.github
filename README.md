@@ -1,4 +1,4 @@
-## VFPT, Inc.
+## bizio.me
 
 <h1 align="center">
     <a href="https://github.com/bizio-me" target="_blank">
