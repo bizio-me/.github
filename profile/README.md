@@ -18,7 +18,7 @@
 
 ### Contact
 
-You can contact the developers of bizio.me at <b><a href="https://x.com/bizio-me">Twitter</a></b> or <b><a href="maito:dmca@bizio.me">dmca@bizio.me</a></b>
+You can contact bizio at <b><a href="https://x.com/bizio-me">Twitter</a></b> or <b><a href="maito:dmca@bizio.me">dmca@bizio.me</a></b>
 
 #### Copyright
 
