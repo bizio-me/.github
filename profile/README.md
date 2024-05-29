@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <a href="https://github.com/bizio-me" target="_blank">
-        <img height="60%" width="60%" src=""><br>
+        <img height="60%" width="60%" src="https://github.com/bizio-me/branding/blob/main/branding/main/banner/b_banner_git.png"><br>
     </a>
 </h1>
 
