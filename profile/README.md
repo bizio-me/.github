@@ -22,4 +22,4 @@ You can contact bizio at <b><a href="https://x.com/bizio-me">Twitter</a></b> or 
 
 #### Copyright
 
-© 2024, bizio.me in the European Union (UE) and elsewhere. All rights reserved.
+© 2024, bizio.me in the European Union (EU) and elsewhere. All rights reserved.
